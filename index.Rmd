@@ -12,4 +12,4 @@ output:
 ## Project thoughts
 
 I am interested in exploring data related to... 
-potentially true crime statistics.
+potentially true crime statistics, or what drives people to commit crimes? Are there any factors that criminals share such as background, etc, that they have in common and could be tied to the path they chose?
